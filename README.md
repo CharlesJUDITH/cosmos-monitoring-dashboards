@@ -7,7 +7,7 @@ This will be moved [here](https://github.com/StakeLab-Zone/StakeLab/tree/main/Mo
 
 Read the official documentation(https://docs.cosmos.network/v0.50/learn/advanced/telemetry).
 
-## How to scrap the mtrics?
+## How to scrap the metrics?
 
 TODO
 
